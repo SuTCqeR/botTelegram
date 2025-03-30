@@ -13,5 +13,8 @@ CONFIG = {
     "media_types": ["photo", "video"],  # Tipos de mídia para baixar
 }
 ```
-- **API_ID & API_HASH** Podem ser pego no site do telegram
-- `https://my.telegram.org/auth`. Basta fazer login, e após a criação pegar os dados
+- **API_ID & API_HASH** Podem ser pegos no site do telegram
+- `https://my.telegram.org/auth`. Basta fazer login, e após a criação pegar os dados.
+- `Phone_number`. Mude para seu número.
+- `group_id`. Após a listagem, copie o id(grupo ou canal) e insira no input automático no código.
+- `download_folder` Coloque o diretório onde será feito o download dos arquivos.
